@@ -5,8 +5,8 @@
 <h2>🔥Features</h2>
   <ul>
     <li><strong>Task Creation and Organization:</strong> Users can easily create, update, and delete tasks.</li>
-    <li><strong>Task Completion and Deleting:</strong>Once a task is completed, users can mark it as done and delete the task.</li>
-    <li><strong>Responsiveness:</strong>To ensure users have access to their tasks from anywhere, the application offers responsiveness. Users can seamlessly access and manage to-do list across multiple devices, such as smartphones, tablets, and computers.</li>
+    <li><strong>Task Completion and Deleting: </strong>Once a task is completed, users can mark it as done and delete the task.</li>
+    <li><strong>Responsiveness: </strong>To ensure users have access to their tasks from anywhere, the application offers responsiveness. Users can seamlessly access and manage to-do list across multiple devices, such as smartphones, tablets, and computers.</li>
     <li><strong>User-Friendly Interface:</strong>The application will feature an intuitive and visually appealing user interface.</li>
   </ul>
     <h2>🔗Link</h2>
